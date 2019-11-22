@@ -28,3 +28,4 @@ git status
 git add
 git commit
 ```
+this site was built using [GitHub Pages](htpp://pages.github.com/).
