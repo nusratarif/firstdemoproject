@@ -29,3 +29,14 @@ git add
 git commit
 ```
 this site was built using [GitHub Pages](htpp://pages.github.com/).
+
+##List
+
+- Karachi
+- Islamabad
+- lahore
+
+1. Karachi
+2. Islamabad
+3. lahore
+
