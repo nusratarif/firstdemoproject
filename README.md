@@ -15,3 +15,16 @@ this is my first demo project
 **thi is _an important_ text**
 
 ***this is bold and italic***
+
+in the words of Ibrahim Linchon
+
+>Pardon my French
+
+use `git status` to list all comment that have'nt commit.
+
+some basic commands are:
+```
+git status
+git add
+git commit
+```
